@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/telltale"
 url: "https://aezloman.github.io/"
+permalink: /:title/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
